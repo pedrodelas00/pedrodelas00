@@ -1,4 +1,8 @@
 <h2 align="center">Ola seja bem vindo ao meu github</h2>
+  <p style="text-align: justify;">°meu nome é pedro nathan</p>
+  <p style="text-align: justify;">°faço curso de desenvolvimento de sistemas no colegio kennedy</p>
+<p style="text-align: justify;">°minha parte favorita do curso foi progamação front-end</p>
+<p style="text-align: justify;">°meu hobby é jogar bola e jogar free fire</p>
 
 ###
 
@@ -10,6 +14,10 @@
 ###
 
 <div align="left">
+  <img src="https://styles.redditmedia.com/t5_2tugi/styles/communityIcon_7yzrvmem0wi31.png?width=128&frame=1&auto=webp&s=f2867a03d138ded17e6b8a9bb4f921174ffefe78" height="30" alt="stats graph"/>
+   <img width="12" />
+  <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo-1763770362992.png" height="30" alt="stats graph"/>
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
